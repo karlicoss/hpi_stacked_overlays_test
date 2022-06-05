@@ -1,4 +1,4 @@
-from . import core
+from my import core
 
 from .main.my import module 
 
